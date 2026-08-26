@@ -5,3 +5,5 @@ __pycache__/
 *.pdf
 *.jpeg
 *.log
+.vscode/
+csv_files_*.txt
