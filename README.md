@@ -91,3 +91,8 @@ Completed.
 Bachelor of Computing (Honours) — Cybersecurity  
 Queen's University
 
+## Supervision
+
+Research conducted under the supervision of **Prof. Dr. Rongxing Lu**, IEEE Fellow, and **Prof. Dr. Rabbani**, R&D Leader at the Canadian Institute for Cybersecurity (CIC).
+
+
